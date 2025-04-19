@@ -40,7 +40,9 @@ High-Level Overview:
 ● Shows how blockchain can be used in education and credential verification.
 ```
 # Result:
-The smart contract for Decentralized Certificate Verification was successfully developed and deployed on the Ethereum blockchain.
+
 ![image](https://github.com/user-attachments/assets/6f27c67e-6864-4f62-9c42-7b9a2074f08b)
 ![image](https://github.com/user-attachments/assets/abfba404-9b8b-41f1-b941-bba1163ac69b)
+
+The smart contract for Decentralized Certificate Verification was successfully developed and deployed on the Ethereum blockchain.
 
